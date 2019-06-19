@@ -163,3 +163,8 @@ Improvements
  in the vimrc before launching *:PlugInstall*.
  For now, only the allman indent style is available. Others are coming soon. You're free to help and share your own indent style.
  - Add more plugins improving programming languages support in the default vimrc such as OCaml (merlin), javascript (vim-javascript), scala (vim-scala), etc.
+
+Ilja's test section
+=================================================
+
+- just seeing how things work
